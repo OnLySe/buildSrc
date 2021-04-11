@@ -2,8 +2,8 @@ package com.zzq.buildsrc
 
 object BuildVersions {
     const val minSdkVersion = 14
-    const val compileSdkVersion = 30
-    const val targetSdkVersion = 30
+    const val compileSdkVersion = 29
+    const val targetSdkVersion = 29
     const val buildToolsVersion = "30.0.3"
 }
 

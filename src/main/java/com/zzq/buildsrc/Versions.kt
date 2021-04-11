@@ -3,7 +3,7 @@ package com.zzq.buildsrc
 object Versions {
 
     const val activity = "1.1.0"
-    const val android_gradle_plugin = "4.1.2"
+    const val android_gradle_plugin = "4.1.3"
     const val annotations = "1.1.0"
     const val apache_commons = "2.5"
     const val appcompat = "1.2.0"
